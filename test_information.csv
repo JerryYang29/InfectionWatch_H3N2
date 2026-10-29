@@ -1,0 +1,94 @@
+Participant ID,Institution,Cohort,Inoculation Time,Dosage Name,Dosage,INFSTAT,SYMSTAT,INFSYM,AGE,SEX,WGTKG,HGTCM,BMI,RACE,ETHNIC
+C01UM026,UMB,1A,2000-01-01 10:30:00,FLUL,10^4 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,34.0,F,65.6,167.6,23.4,WHITE,NOT HISPANIC OR LATINO
+C01DU006,Duke,1A,2000-01-01 13:15:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,30.0,M,83.6,170.2,28.9,WHITE,NOT HISPANIC OR LATINO
+C01DU020,Duke,1A,2000-01-01 13:26:00,FLUL,10^4 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,37.0,M,75.5,167.6,25.0,WHITE,NOT HISPANIC OR LATINO
+C01DU021,Duke,1A,2000-01-01 13:30:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,34.0,M,81.8,189.2,22.9,WHITE,NOT HISPANIC OR LATINO
+C01UM053,UMB,1A,2000-01-01 11:26:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,22.0,M,113.2,194.3,30.0,WHITE,NOT HISPANIC OR LATINO
+C01DU027,Duke,1A,2000-01-01 13:41:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,32.0,F,61.4,162.6,23.2,WHITE,NOT HISPANIC OR LATINO
+C02UM009,UMB,1A,2000-01-01 11:16:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,31.0,M,88.8,177.8,28.9,ASIAN,NOT HISPANIC OR LATINO
+C02UM012,UMB,3A,2000-01-01 12:13:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,37.0,F,113.1,180.8,33.7,WHITE,NOT HISPANIC OR LATINO
+C02DU002,Duke,1A,2000-01-01 13:39:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,45.0,F,65.8,160.5,25.5,MULTIPLE,NOT HISPANIC OR LATINO
+C02DU003,Duke,1A,2000-01-01 13:30:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,40.0,F,86.5,162.8,32.6,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU001,Duke,1A,2000-01-01 13:49:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,37.0,F,80.1,160.3,31.2,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU004,Duke,1A,2000-01-01 13:25:00,FLUL,10^4 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,30.0,M,67.2,185.9,19.4,WHITE,NOT HISPANIC OR LATINO
+C02DU006,Duke,1A,2000-01-01 13:18:00,FLUL,10^4 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,35.0,F,53.3,167.6,19.0,WHITE,NOT HISPANIC OR LATINO
+C02DU007,Duke,2A,2000-01-01 13:42:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,39.0,F,77.0,170.0,26.7,WHITE,HISPANIC OR LATINO
+C02UM022,UMB,1A,2000-01-01 11:34:00,FLUL,10^4 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,30.0,M,89.7,185.4,26.1,WHITE,NOT HISPANIC OR LATINO
+C02DU010,Duke,2A,2000-01-01 13:57:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,29.0,M,73.0,173.0,24.4,WHITE,NOT HISPANIC OR LATINO
+C02DU011,Duke,2A,2000-01-01 13:52:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,44.0,M,124.0,176.5,39.8,WHITE,NOT HISPANIC OR LATINO
+C02DU013,Duke,2A,2000-01-01 13:47:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,41.0,M,73.6,165.5,26.9,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU014,Duke,2A,2000-01-01 13:42:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,42.0,F,75.5,161.5,28.9,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU017,Duke,2A,2000-01-01 13:36:00,FLUM,10^5 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,33.0,M,80.1,177.5,25.4,WHITE,NOT HISPANIC OR LATINO
+C02DU018,Duke,2A,2000-01-01 13:31:00,FLUM,10^5 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,42.0,F,105.0,164.0,39.0,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C01UM086,UMB,3A,2000-01-01 12:17:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,30.0,F,85.2,181.6,25.8,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU020,Duke,2A,2000-01-01 13:47:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,40.0,F,73.6,145.5,34.8,WHITE,HISPANIC OR LATINO
+C02DU022,Duke,2A,2000-01-01 13:54:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,22.0,F,57.4,164.0,21.3,WHITE,NOT HISPANIC OR LATINO
+C02DU023,Duke,2A,2000-01-01 14:00:00,FLUM,10^5 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,40.0,F,76.7,165.5,28.0,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU024,Duke,2A,2000-01-01 14:07:00,FLUM,10^5 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,35.0,F,84.5,168.0,29.9,WHITE,NOT HISPANIC OR LATINO
+C02UM023,UMB,3A,2000-01-01 11:47:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,23.0,M,59.5,158.0,23.8,MULTIPLE,HISPANIC OR LATINO
+C02UM024,UMB,3A,2000-01-01 11:59:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,23.0,M,83.4,162.6,31.5,WHITE,NOT HISPANIC OR LATINO
+C02UM025,UMB,3A,2000-01-01 12:03:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,36.0,M,118.0,179.1,36.8,MULTIPLE,NOT HISPANIC OR LATINO
+C02UM029,UMB,3A,2000-01-01 11:55:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,24.0,M,83.8,181.6,25.4,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02UM030,UMB,3A,2000-01-01 12:31:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,32.0,F,57.5,158.0,23.0,ASIAN,HISPANIC OR LATINO
+C02UM031,UMB,3B,2000-01-01 12:35:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,36.0,M,81.4,175.3,27.0,WHITE,HISPANIC OR LATINO
+C02DU027,Duke,3A,2000-01-01 13:39:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,39.0,M,71.2,172.0,23.7,WHITE,NOT HISPANIC OR LATINO
+C02UM043,UMB,3A,2000-01-01 12:23:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,24.0,F,79.7,158.8,31.6,BLACK OR AFRICAN AMERICAN,HISPANIC OR LATINO
+C02UM047,UMB,3A,2000-01-01 12:26:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,32.0,F,106.3,182.9,31.8,WHITE,NOT HISPANIC OR LATINO
+C02UM054,UMB,3A,2000-01-01 12:08:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,32.0,F,99.7,170.2,34.4,WHITE,NOT HISPANIC OR LATINO
+C02UM055,UMB,3B,2000-01-01 12:29:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,36.0,F,77.3,160.0,28.2,WHITE,HISPANIC OR LATINO
+C02UM057,UMB,3A,2000-01-01 11:41:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,34.0,M,80.5,185.4,23.4,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU053,Duke,3B,2000-01-01 13:56:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,37.0,F,106.5,176.0,36.0,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU034,Duke,3A,2000-01-01 13:54:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,24.0,M,119.1,189.0,33.3,WHITE,NOT HISPANIC OR LATINO
+C02DU031,Duke,3A,2000-01-01 13:47:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,32.0,F,65.5,167.0,23.5,WHITE,NOT HISPANIC OR LATINO
+C02DU036,Duke,3A,2000-01-01 13:55:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,31.0,M,91.8,184.5,27.0,WHITE,NOT HISPANIC OR LATINO
+C02DU035,Duke,3A,2000-01-01 14:01:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,19.0,M,72.4,176.8,23.2,WHITE,HISPANIC OR LATINO
+C02DU038,Duke,3A,2000-01-01 13:50:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,40.0,M,85.6,179.5,26.6,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU040,Duke,3A,2000-01-01 13:44:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,37.0,M,83.5,171.5,28.4,WHITE,HISPANIC OR LATINO
+C02DU041,Duke,3A,2000-01-01 13:36:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,40.0,M,88.5,167.0,31.7,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU042,Duke,3B,2000-01-01 14:04:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,28.0,M,112.6,184.0,35.4,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02UM060,UMB,3B,2000-01-01 12:46:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,33.0,F,89.1,164.6,32.9,BLACK OR AFRICAN AMERICAN,HISPANIC OR LATINO
+C02UM061,UMB,3B,2000-01-01 12:18:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,30.0,M,77.2,160.0,30.2,WHITE,NOT HISPANIC OR LATINO
+C02UM066,UMB,3B,2000-01-01 12:50:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,38.0,F,48.8,160.0,19.1,WHITE,NOT HISPANIC OR LATINO
+C02UM071,UMB,3B,2000-01-01 12:42:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,23.0,F,80.8,171.5,27.5,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02UM076,UMB,3B,2000-01-01 12:10:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,24.0,M,92.0,179.1,28.7,WHITE,NOT HISPANIC OR LATINO
+C02UM081,UMB,3B,2000-01-01 12:22:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,19.0,M,71.9,175.3,23.4,WHITE,NOT HISPANIC OR LATINO
+C02UM084,UMB,3B,2000-01-01 12:53:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,24.0,M,99.6,186.7,28.6,WHITE,NOT HISPANIC OR LATINO
+C02DU043,Duke,3B,2000-01-01 14:10:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,36.0,M,81.8,183.5,24.3,MULTIPLE,NOT HISPANIC OR LATINO
+C02DU045,Duke,3B,2000-01-01 14:16:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,30.0,F,73.9,168.5,26.0,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU048,Duke,3B,2000-01-01 14:22:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,30.0,M,99.1,180.5,30.4,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU050,Duke,3B,2000-01-01 14:27:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,34.0,M,78.6,180.0,24.3,WHITE,NOT HISPANIC OR LATINO
+C02DU052,Duke,3B,2000-01-01 14:41:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,32.0,M,95.7,178.0,30.2,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+C02DU051,Duke,3B,2000-01-01 14:35:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,36.0,M,91.0,187.0,26.0,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO
+EXC1DU001,Duke,1,2000-01-01 13:11:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,44.0,M,100.0,186.5,28.75,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU004,Duke,1,2000-01-01 13:22:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,44.0,M,79.0,181.0,24.11,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU005,Duke,2,2000-01-01 13:10:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,44.0,M,62.1,166.8,22.32,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU006,Duke,1,2000-01-01 13:28:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,36.0,M,82.4,179.0,25.72,White,Non-Hispanic/Non-Latino
+EXC1DU008,Duke,1,2000-01-01 13:24:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,42.0,F,70.9,172.5,23.83,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU009,Duke,1,2000-01-01 13:38:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,24.0,M,95.6,185.0,27.93,Asian,Non-Hispanic/Non-Latino
+EXC1DU010,Duke,1,2000-01-01 13:30:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,34.0,F,66.6,157.0,27.02,Black or African American,Hispanic/Latino
+EXC1DU012,Duke,1,2000-01-01 13:16:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,24.0,M,80.2,172.5,26.95,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU013,Duke,1,2000-01-01 13:36:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,43.0,F,82.4,161.0,31.79,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU014,Duke,1,2000-01-01 13:33:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,32.0,M,71.8,170.0,24.84,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU015,Duke,1,2000-01-01 13:42:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,36.0,F,99.3,176.5,31.88,Black or African American,Non-Hispanic/Non-Latino
+EXC1DU016,Duke,1,2000-01-01 13:44:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,37.0,F,70.0,165.1,25.68,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU017,Duke,2,2000-01-01 13:05:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,33.0,M,107.2,183.5,31.84,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU018,Duke,2,2000-01-01 13:14:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Symptomatic,Symptomatic and Uninfected,42.0,M,95.0,178.0,29.98,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU019,Duke,2,2000-01-01 13:09:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,42.0,F,65.9,171.5,22.41,White,Non-Hispanic/Non-Latino
+EXC2DU021,Duke,2,2000-01-01 13:21:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,38.0,M,69.9,175.0,22.82,White,Non-Hispanic/Non-Latino
+EXC2DU023,Duke,2,2000-01-01 13:16:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,29.0,F,94.1,177.0,30.04,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU025,Duke,2,2000-01-01 13:29:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,21.0,M,62.2,171.0,21.27,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU026,Duke,2,2000-01-01 13:26:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,43.0,M,115.2,174.5,37.83,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU027,Duke,2,2000-01-01 13:33:00,FLUH,10^6 TCID_50 per mL Virus,Uninfected,Asymptomatic,Asymptomatic and Uninfected,38.0,M,98.6,189.0,27.6,American Indian or Alaskan Native:,Non-Hispanic/Non-Latino
+EXC3DU029,Duke,3,2000-01-01 12:49:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,35.0,F,99.3,179.5,30.82,White,Non-Hispanic/Non-Latino
+EXC2DU031,Duke,2,2000-01-01 13:27:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,27.0,M,89.6,187.0,25.62,Black or African American,Non-Hispanic/Non-Latino
+EXC2DU032,Duke,2,2000-01-01 13:21:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,30.0,F,61.2,167.5,21.81,White,Non-Hispanic/Non-Latino
+EXC3DU035,Duke,3,2000-01-01 12:57:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,38.0,F,66.6,166.0,24.17,Black or African American,Non-Hispanic/Non-Latino
+EXC3DU036,Duke,3,2000-01-01 12:45:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,19.0,M,77.2,181.5,23.43,White,Non-Hispanic/Non-Latino
+EXC3DU037,Duke,3,2000-01-01 12:42:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,18.0,M,82.1,190.0,22.74,White,Non-Hispanic/Non-Latino
+EXC3DU038,Duke,3,2000-01-01 13:02:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,24.0,F,93.9,178.5,29.47,White,Non-Hispanic/Non-Latino
+EXC3DU041,Duke,3,2000-01-01 12:49:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,43.0,M,112.8,178.0,35.6,Black or African American,Non-Hispanic/Non-Latino
+EXC3DU042,Duke,3,2000-01-01 12:53:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,35.0,M,90.7,186.5,26.08,White,Non-Hispanic/Non-Latino
+EXC3DU043,Duke,3,2000-01-01 12:59:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,25.0,M,86.8,175.5,28.18,White,Non-Hispanic/Non-Latino
+EXC3DU044,Duke,3,2000-01-01 12:57:00,SHAM,Sham Inoculum,Uninfected,Asymptomatic,Asymptomatic and Uninfected,21.0,M,68.7,170.5,23.63,Asian,Non-Hispanic/Non-Latino
+EXC3DU045,Duke,3,2000-01-01 13:06:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Asymptomatic,Asymptomatic and Infected,36.0,M,78.9,181.5,23.95,White,Non-Hispanic/Non-Latino
+EXC3DU046,Duke,3,2000-01-01 13:08:00,FLUH,10^6 TCID_50 per mL Virus,Infected,Symptomatic,Symptomatic and Infected,42.0,M,76.1,184.0,22.48,Black or African American,Non-Hispanic/Non-Latino
