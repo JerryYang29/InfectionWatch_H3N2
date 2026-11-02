@@ -1,0 +1,11 @@
+# Packages imported by the notebooks (Python 3.11).
+ipython
+matplotlib
+numpy
+pandas
+pingouin
+scipy
+statsmodels
+
+# Parquet engine required by pandas.read_parquet.
+pyarrow
